@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Han Yu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Yu Han
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Han
+last_name: Yu
 
 # Status emoji
 status:
@@ -17,74 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postgraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tsinghua University
+    url: https://www.tsinghua.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include bioinformatics, synthetic biology and artificial intelligence.
 
 # Interests to show in About widget
 interests:
+  - Bioinformatics
+  - Synthetic Biology
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+    - course: Ph.D. in Electronic and Information Science and Technology
+      institution: Tsinghua University
+      year: 2024
+    - course: M.Eng. in Biological and Pharmaceutical Engineering
+      institution: University of Chinese Academy of Sciences
+      year: 2020
+    - course: B.Sc. in Intelligent Science and Technology
+      institution: Chongqing University of Posts and Telecommunications
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +80,4 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Han Yu is a Ph.D. candidate at the School of Information Scicnce and Technology, Tsinghua University, Beijing, China. He is advised by Prof. [Xiaowo Wang](http://www.bioinfo-xwwang-thu.cn/main/index.jsp) at [Department of Automation](https://www.au.tsinghua.edu.cn/) and [Beijing National Research Center for Information Science and Technology](https://www.bnrist.tsinghua.edu.cn/). He received her Master's degree from University of Chinese Academy of Sciences in 2023, advised by Prof. [Xiaozhou Luo](https://luo-lab.com/) at [Institute of Synthetic Biology](https://isynbio.siat.ac.cn/). Han's work focused on the interdisciplinary subjects, involving in artificial intelligence and synthetic biology. Currently, He devotes himself to working on **the design of gene regulatory elements in synthetic biology**. He welcomes collaboration opportunities, particularly with researchers specializing in synthetic biology and biomedicine.
