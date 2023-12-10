@@ -39,9 +39,16 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: BiographyHan
+      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: markdown
+    id: news
+    content:
+      title: News
+      text: <li><strong>Nov. 2023:</strong> Our paper UniKP&#58; a unified framework for the prediction of enzyme kinetic parameters has been accepted by Nature Communications! </li> <li><strong>Jul. 2023:</strong> I presented an academic speech titled "A Unified Framework For the Prediction of Enzyme Kinetic Parameters" at the Synthetic Biointelligent Manufacturing Conference in Shenzhen.</li> <li><strong>Dec. 2022:</strong> I was honored with the SIAT Dean's Scholarship and the Isynbio's Dean's Innovation Award! </li> <li><strong>Oct. 2022:</strong> Our paper <a href="https://academic.oup.com/bib/article/24/1/bbac476/6834141">IPPF-FE&#58; an integrated peptide and protein function prediction framework based on fused features and ensemble models</a> has been accepted by Briefings in Bioinformatics!</li>
+    design:
+      columns: '2'
   - block: skills
     content:
       title: Skills
